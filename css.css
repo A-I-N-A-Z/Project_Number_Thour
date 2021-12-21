@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+    background-color: #8A2BE2;
+    color: white;
+    font-size: 19px;
+}
+header {
+    background-color: #121212;
+    padding: 5px;
+    border: 3px solid #121212;
+    border-radius: 10px;
+}
+header a {
+    text-decoration: none;
+    padding: 4px;
+    border: 1px solid #8A2BE2;
+    border-radius: 7px;
+    color: white;
+    background-color: #8A2BE2;
+}
+main a {
+    text-decoration: none;
+    padding: 4px;
+    border: 1px solid #121212;
+    border-radius: 7px;
+    color: white;
+    background-color: #121212;
+}
+header b{
+    color: white;
+}
+.hot {
+    color: white;
+    border: 3px solid #121212;
+    background-color:#121212;
+    border-radius: 15px;
+    text-align: center;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+    padding: 6px;
+}
+
+footer {
+    background-color: #121212;
+    border: 1px solid #121212;
+    border-radius: 10px;
+    margin: 5px
+}
+
+nav a{
+    color: white;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 18px
+}
+
+nav{
+    text-align: center;
+    border: 2px solid #121212;
+    border-radius: 2px;
+    background-color: #121212;
+}
+
+.lok {
+    text-align:center;
+    border: 1px solid #121212;
+    background-color:#121212;
+    border-radius: 15px;
+}
